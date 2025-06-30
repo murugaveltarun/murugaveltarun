@@ -1,38 +1,46 @@
 # Hi there 👋, I'm Tarun!
 
-I'm a **final-year Biomedical Engineering student** currently working on my final-year project. I'm eager to collaborate on projects where I can apply and expand my skills in **health tech**, **AI in healthcare**, or **data science**.
+I'm a **final-year Biomedical Engineering student** with a growing passion for **Full Stack Web Development**. I’m currently working on my final-year project and actively building projects that bridge **technology and healthcare**.
 
 ---
 
-## 🎯 Career Goal
-To contribute to impactful projects that drive **healthcare innovation** and improve lives.
+## 🎯 Career Goal  
+To build innovative, scalable full stack applications — especially those that drive **healthcare innovation** or leverage **AI in meaningful ways**.
 
 ---
 
-## 👯 Open to Collaborations
-I'm looking to collaborate on projects involving:
-- Health tech
-- AI in healthcare
-- Data science
+## 👯 Open to Collaborations  
+I'm open to collaborating on:
+- Full stack web applications  
+- Health tech solutions  
+- AI-integrated web tools  
+- Data-driven projects  
 
 ---
 
-## 🛠️ Skills and Tools
+## 🛠️ Skills and Tools  
+
 **Programming Languages:**  
-- Python  
-- C  
+- JavaScript, Python, SQL, C  
 
-**Embedded Systems:**  
-- Raspberry Pi  
-- Arduino  
+**Web Development:**  
+- HTML, CSS, JavaScript  
+- React.js, Bootstrap  
+- Node.js, Express.js  
+- REST APIs, JSON  
 
-**Other Skills:**  
-- Linux command-line interface  
-- Basic ethical hacking (Kali Linux)  
-- Typing speed: 50 WPM  
+**Database:**  
+- MySQL  
+
+**Tools & Platforms:**  
+- Git, GitHub, VS Code, Postman  
+
+**Embedded Systems (Biomedical Background):**  
+- Raspberry Pi, Arduino  
+- Linux CLI, basic ethical hacking (Kali Linux)  
 
 ---
 
-## 📫 Contact Me
-Feel free to reach out at:  
-📧 [murugaveltarun.professional@gmail.com](mailto:murugaveltarun.professional@gmail.com)  
+## 📫 Contact Me  
+Feel free to reach out:  
+📧 [murugaveltarun.professional@gmail.com](mailto:murugaveltarun.professional@gmail.com)
