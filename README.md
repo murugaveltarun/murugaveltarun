@@ -1,27 +1,27 @@
 # Hi there 👋, I'm Tarun!
 
-I'm a **final-year Biomedical Engineering student** with a growing passion for **Full Stack Web Development**. I’m currently working on my final-year project and actively building projects that bridge **technology and healthcare**.
+I'm a **Full Stack Developer** with a background in **Biomedical Engineering**. I recently completed my degree and now focus entirely on building robust, scalable web applications.
 
 ---
 
 ## 🎯 Career Goal  
-To build innovative, scalable full stack applications — especially those that drive **healthcare innovation** or leverage **AI in meaningful ways**.
+To grow as a developer by building modern, efficient, and user-friendly web applications — and to contribute to impactful projects in dynamic tech environments.
 
 ---
 
 ## 👯 Open to Collaborations  
 I'm open to collaborating on:
 - Full stack web applications  
-- Health tech solutions  
-- AI-integrated web tools  
-- Data-driven projects  
+- SaaS platforms  
+- Open source projects  
+- Automation or productivity tools  
 
 ---
 
 ## 🛠️ Skills and Tools  
 
 **Programming Languages:**  
-- JavaScript, Python, SQL, C  
+- JavaScript, Python, SQL
 
 **Web Development:**  
 - HTML, CSS, JavaScript  
@@ -35,12 +35,19 @@ I'm open to collaborating on:
 **Tools & Platforms:**  
 - Git, GitHub, VS Code, Postman  
 
-**Embedded Systems (Biomedical Background):**  
+**Background in Embedded Systems:**  
 - Raspberry Pi, Arduino  
 - Linux CLI, basic ethical hacking (Kali Linux)  
+
+---
+
+## 🎓 Education  
+**B.Tech in Biomedical Engineering** – Specialized in AI  
+Graduated in 2025  
 
 ---
 
 ## 📫 Contact Me  
 Feel free to reach out:  
 📧 [murugaveltarun.professional@gmail.com](mailto:murugaveltarun.professional@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/murugaveltarun/)
